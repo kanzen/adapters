@@ -1,15 +1,3 @@
-# @kanzen/lifecycle-support
+# kanzen adapters
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.2. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+Fallback command packs used by the CLI when a lifecycle doesn’t ship native integration scripts.
